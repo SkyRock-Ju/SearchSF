@@ -1,0 +1,4 @@
+﻿  Search.cpp
+c:\users\skyro\source\repos\search\search\search.cpp(7): warning C4804: >: небезопасное использование типа "bool" в операции
+c:\users\skyro\source\repos\search\search\search.cpp(12): warning C4018: <: несоответствие типов со знаком и без знака
+  Search.vcxproj -> C:\Users\skyro\source\repos\Search\Debug\Search.exe
